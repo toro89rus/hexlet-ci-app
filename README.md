@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![lint-and-test](https://github.com/toro89rus/hexlet-ci-app/actions/workflows/lint-and-test.yml/badge.svg)](https://github.com/toro89rus/hexlet-ci-app/actions/workflows/lint-and-test.yml)
+
 ## System requirements
 
 * NodeJS >= 18
